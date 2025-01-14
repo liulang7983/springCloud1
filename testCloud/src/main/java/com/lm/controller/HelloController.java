@@ -22,6 +22,7 @@ public class HelloController {
 
     @RequestMapping("aliyun")
     public String getAliyun(){
+        System.out.println("进入方法:getAliyun");
         return aliyun.getAppKey()+":"+aliyun.getAppSecret()+":"+aliyun.getBucket()+":"+aliyun.getEndPoint();
     }
 }
