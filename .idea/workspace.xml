@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/weiweiu/ai-wrcbfront-serving-20241106/ai-wrcbfront-serving" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/日志/adaptor" value="PREVIEW" />
+        <entry key="C:/getCode/HexAI-XIB/HexAI-web" value="PREVIEW" />
+        <entry key="C:/getCode/adaptor" value="PREVIEW" />
+        <entry key="C:/getCode/ias-serving" value="PREVIEW" />
+        <entry key="C:/getCode/ics-serving1" value="PREVIEW" />
+        <entry key="C:/getCode/lease-server1" value="PREVIEW" />
+        <entry key="C:/getCode/ocr-serving" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../gradles" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../liming/shyh/console-serving" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../liming/shyh/gateway-serving" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../liming/shyh/gateway-serving2" value="PREVIEW" />
+        <entry key="C:/releaseCode/ias-serving" value="PREVIEW" />
+        <entry key="C:/releaseCode/ias-serving-@3.7.3.rc.5-20240820" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\liming\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8 (2)" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="y" value="3" />
+    <option name="width" value="1934" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/getCode" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
