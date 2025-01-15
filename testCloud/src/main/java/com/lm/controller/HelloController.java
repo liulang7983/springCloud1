@@ -25,4 +25,10 @@ public class HelloController {
         System.out.println("进入方法:getAliyun");
         return aliyun.getAppKey()+":"+aliyun.getAppSecret()+":"+aliyun.getBucket()+":"+aliyun.getEndPoint();
     }
+
+    @RequestMapping("/getZero")
+    public String getZero(){
+        int i = 0 / 0;
+        return "hello world";
+    }
 }
