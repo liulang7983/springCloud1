@@ -1,5 +1,6 @@
 package com.lm;
 
+import org.springframework.boot.Banner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -11,6 +12,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TestApplocation {
     public static void main(String[] args) {
-        SpringApplication.run(TestApplocation.class,args);
+        SpringApplication springApplication = new SpringApplication(TestApplocation.class);
+        springApplication.setBannerMode(Banner.Mode.OFF);
+        springApplication.run(args);
     }
 }
